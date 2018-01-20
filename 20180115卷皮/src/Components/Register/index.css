@@ -1,0 +1,55 @@
+body{
+  background: #fff;
+}
+.top1{
+  width: 100%;
+  height: 2.5rem;
+  background: #ff5a61;
+  text-align: center;
+  line-height: 2.5rem;
+  font-size: 16px;
+}
+.middle1{
+  margin-top:12px; 
+}
+.middle1 ul{
+list-style: none;
+width: 90%;
+height: 10.5rem;
+margin-left:6%;
+}
+.middle1 ul li{
+  padding-top: 2rem;
+  width: 100%;
+  border-bottom:1px solid #ccc; 
+}
+.cig88{
+
+  height: 3.32rem;
+  width: 100%;
+}
+input{
+  width: 100%;
+  height: 2rem;
+  border: none;
+}
+.btn3{
+  width: 80%;
+  height: 3rem;
+  background: #ccc;
+  margin-top:60px;
+  margin-left: 10%;
+  color: #fff;
+  text-align: center;
+  line-height: 3rem;
+}
+.btn4{
+  width: 80%;
+  height: 3rem;
+  background: #ff464e;
+  margin-top:60px;
+  margin-left: 10%;
+  color: #fff;
+  text-align: center;
+  line-height: 3rem;
+}

@@ -1,0 +1,118 @@
+.del{
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	background: #fff;
+	z-index: 10
+}
+.del1{
+	width: 90%;
+	height: 20rem;
+	margin: 0 auto;
+}
+.del1 img{
+	width: 100%;
+	height: 100%;
+}
+.del2{
+	width: 100%;
+	height: 3rem;
+	background: #fff;
+}
+.del2 ul{
+	width: 100%;
+	height: 3rem;
+}
+.del2 ul li{
+	width: 90%;
+	margin: 0 auto;
+	height: 3rem;
+	list-style: none;
+}
+.del2 ul li p{
+	float: left;
+	font-size: 1rem;
+    color: #333333;
+    margin-top:17px;
+    margin-left:10px; 
+}
+.sp1{
+	float: left;
+	margin-top:7px; 
+	font-size: 30px;
+	color: #ff464e;
+	display: block;
+}
+.sp2{
+	float: right;
+	margin-top:31px;
+	font-size: 12px;
+	color: #ccc;
+}
+.img1{
+	width: 100%;
+}
+.del3{
+	width: 100%;
+	height: 12rem;
+	margin-top:10px; 
+	border: 1px solid #ccc;
+}
+
+.del3 ul{
+	width: 100%;
+	height: 8rem;
+}
+
+.del3 ul li {
+	list-style: none;
+	float: left;
+}
+.cli1{
+	width: 80%;
+	height: 4rem;
+	margin: 0px 10%;
+}
+.cli1 img{
+	float: left;
+	width: 4rem;
+	height: 4rem;
+}
+.cli1 p{
+	font-size: 18px;
+	margin-top:15px; 
+	display: block;
+}
+.cli1 span{
+	float: left;
+	color: #ccc;
+	margin-top:5px; 
+	display: block;
+}
+.cli1 button{
+	float: right;
+}
+.cli2{
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+}
+.cli3{
+	width: 100%;
+	height: 37px;
+	text-align: center;
+	line-height: 37px;
+	font-size: 18px;
+}
+
+.del4{
+	width: 100%;
+	height:2.5rem;
+	background: #ff464e;
+	text-align: center;
+	line-height: 2.5rem;
+	color: #fff;
+	position: fixed;
+	bottom: 0px;
+}
